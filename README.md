@@ -1,6 +1,6 @@
 # Introduction to Quantum Computing and Quantum Hardware
 
-This repository contains the files associated with the course `Introduction to Quantum Computing and Quantum Hardware` located at [qiskit.org/learn/introqcqh](http://qiskit.org/learn/intro-qc-qh).
+This repository contains the files associated with the course `Introduction to Quantum Computing and Quantum Hardware` located at [qiskit.org/learn/intro-qc-qh](http://qiskit.org/learn/intro-qc-qh).
 
 ## Contents:
 
